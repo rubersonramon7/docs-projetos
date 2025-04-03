@@ -1,0 +1,64 @@
+empresa de desenvolvimento chamada ApiceTech com esse logo. 
+Teremos um projeto inicial que é um sistema de membros, inspirado em socio-torcedor mas de maneira generica para abranger qualquer empresa/instituição que tenha membros/associados. 
+Em paralelo, outros projetos, serão empresas 'filhas' da ApiceTech. 
+1 - sistema de saude (sistema de gernciamento de clinicas com agendamentos, prontuarios e demais coisas pertinentes 
+2 - sistema de investimentos (sistema de gerenciamento de carteira de investimento, onde o usuario irá cadastrar e monitorar seus investimentos em ações, fii e afins. 
+3 - sistema de convite (sistema de gerencimento de convite, baby cha, aniversario, casamento, com opções para adicionar lista de presentes 
+4 - sistema de chat (sistema de atendimento omnichanel com multiplos atendentes, conectados a um whatsapp (utilizando a evolutionApi como integração ao whatsapp) 
+5 - sistema CRM (sistema de CRM com integração no sistema de saude, sistema de chat) 
+6 - eventos (sistema de eventos com possibilidade de emissao de certificados) 
+7 - portal de noticias de cultura (um site que funcione como um portal que mostre todas os eventos culturais que tenha na regiao) 
+8 - jogo ( jogo de sobrevivencia de mundo aberto, mas futurando a ideia é construir novos jogos de varios generos) 
+
+ApiceTech - Sistemas e Soluções
+    1. Sistema de Membros/Associados
+        ApiceSocio Slogan: "Gestão inteligente de associados"
+        ApiceClube Slogan: "Conectando membros, fortalecendo vínculos"
+        ApiceAssoc Slogan: "Excelência em gestão de associados"
+        ApiceUnion Slogan: "Unidos pelo sucesso"
+        ApicePartner Slogan: "Parceria que gera resultados"
+        SócioMaster Slogan: "Gerenciando vínculos, fortalecendo relações"
+        MembrosPro Slogan: "Simplicidade na gestão de associados"
+        VínculoSmart Slogan: "Conectando membros, gerando resultados"
+        AssociadosPrime Slogan: "Excelência em gestão de membros"
+        ConectaMembros Slogan: "A ponte entre você e seus associados"
+        GestãoSócio Slogan: "Transformando associados em parceiros"
+        UniãoMaster Slogan: "Unidos pelo sucesso"
+        VinculaWeb Slogan: "Gestão de membros simplificada"
+        AssociaSystem Slogan: "Tecnologia a serviço dos seus associados"
+        ApiceMember Slogan: "Gestão inteligente de associados"
+
+    2. Sistema de Saúde
+        ApiceMed Slogan: "Tecnologia a serviço da saúde"
+
+    3. Sistema de Investimentos
+        ApiceInvest Slogan: "Investimentos no seu melhor momento"
+        ApiceWallet Slogan: "Sua carteira, nossa expertise"
+        ApiceFunds Slogan: "Gerenciando investimentos com excelência"
+        ApiceCapital Slogan: "Capital sob controle total"
+        ApiceFinance Slogan: "Finanças no ápice do sucesso"
+        InvestSmart Slogan: "Sua carteira de investimentos sob controle"
+
+    4. Sistema de Convites
+        ApiceFesta Slogan: "Momentos especiais, memórias únicas"
+
+    5. Sistema de Chat/Atendimento
+    Nome do Sistema: ApiceChat
+    Slogan: "Conectando você ao seu cliente"
+
+    6. Sistema CRM
+    Nome do Sistema: ApiceCRM
+    Slogan: "Relacionamentos que geram resultados"
+
+    7. Sistema de Eventos
+    Nome do Sistema: ApiceEvent
+    Slogan: "Seus eventos no ápice do sucesso"
+
+    8. Portal de Cultura
+    Nome do Sistema: ApiceCultura
+    Slogan: "A cultura da sua região em destaque"
+
+    9. Divisão de Games
+    Nome do Sistema: ApiceGames
+    Slogan: "Criando mundos, construindo aventuras"
+    └─ Elyndor (Nome do primeiro jogo)

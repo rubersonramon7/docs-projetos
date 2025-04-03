@@ -1,0 +1,93 @@
+Verssao 6 - Plano de Desenvolvimento - Jogo de Sobrevivência Hardcore
+Sistema de Sanidade/Desespero
+Conceito
+O desespero reflete o impacto psicológico e espiritual das ações do jogador (construção, fabricação, combate) e do tempo jogado, acumulando-se até 1000 para disparar o Evento de Retaliação Divina. As bancadas culturais mitigam o desespero
+Medição
+Barra: 0 a 1000:
+1000: evento iminente.
+Reset: Após o evento, volta a 0.
+Integração às Mecânicas
+Tempo Jogado:
+Medição: +50 por hora jogada (ativo, sem pausas).
+Nota: A pressão de Elyndor cresce significativamente com o tempo, incentivando rituais para controle.
+Construção:
+Medição: Cada item de construção colocado na base soma +1 ao desespero.
+Nota: Bases grandes (ex.: 200 itens) somam 200, um impacto moderado na nova escala.
+Fabricação de Itens:
+Bancadas Principais (9): Cada item fabricado tem peso baseado no tier da bancada usada:
+Carpintaria (Tier 1): +1 por item (estruturas básicas).
+Ferramentas (Tier 1): +1 por item (itens utilitários).
+Curtume (Tier 2): +2 por item (couro e derivados).
+Cozinha (Tier 2): +2 por item (refeições).
+Armas (Tier 3): +3 por item (armas variadas).
+Armaduras (Tier 3): +3 por item (proteções).
+Fusão (Tier 4): +5 por item (lingotes refinados).
+Alquimia (Tier 4): +5 por item (poções e explosivos).
+[Bancada Cultural - Veja Mitigação]: Não soma, apenas reduz.
+Nota: Itens de tiers mais altos (ex.: armas, lingotes) refletem maior esforço e atraem mais atenção divina.
+Combate (PvP e PvE):
+Peso por Nível:
+Humanos: +1 por morte.
+Criaturas Místicas: +2 por morte.
+Mini-Chefes: +3 por morte.
+Chefes: +4 por morte.
+Chefes Lendários: +5 por morte.
+Nota: Mantido igual, com impacto significativo em combates intensos.
+Rituais Culturais (Mitigação via Bancadas Culturais):
+Medição: Cada ritual usa uma bancada cultural (tiers 1 a 4) e reduz o desespero com base no tier:
+Tier 1 (ex.: Aprendiz Celestial, Estudante Shinobi): -25 por ritual.
+Tier 2 (ex.: Discípulo do Dragão, Samurai Novato): -50 por ritual.
+Tier 3 (ex.: Mestre da Lança, Guerreiro Ronin): -75 por ritual.
+Tier 4 (ex.: Imperador Dragão, Shogun do Trovão): -100 por ritual.
+Exemplos por Civilização (Tier 4):
+Xun’Kai: Queimar ervas raras (-100).
+Yamatori: Meditação sob trovão (-100).
+Valtoria: Sacrifício de sangue (-100).
+Aegion: Hino épico (-100).
+Zandria: Enterrar relíquia sagrada (-100).
+Skjoldrheim: Grito de guerra lendário (-100).
+Ashan: Invocar sombras supremas (-100).
+Limite: Não baixa abaixo de 200.
+Nota: Bancadas culturais não somam desespero ao fabricar itens, apenas mitigam via rituais.
+
+Evento de Retaliação Divina - Versão Mantida com Ajustes
+Conceito
+Ao atingir 1000 de desespero, um deus envia hordas para atacar a base. O jogador deve resistir por 15 minutos ou eliminar todas as hordas. Na 6ª retaliação em diante, o deus pode aparecer com vida balanceada, dropando um fragmento divino se derrotado.
+Escala Gradual
+Duração: 15 minutos ou até eliminar todas as hordas.
+Progressão:
+1ª Retaliação: 1 onda.
+2ª Retaliação: 2 ondas.
+3ª Retaliação: 4 ondas.
+4ª Retaliação: 6 ondas.
+5ª Retaliação: 8 ondas.
+6ª Retaliação em diante: 10 ondas (30% de chance do deus).
+Ressurgimento: Próxima onda surge após eliminação total da anterior.
+Estrutura
+Foco: Atacar a base (estruturas e bancadas). Spawn a 50-100 metros da base única.
+Deus: Na 6ª retaliação em diante, aparece na última onda (30% de chance), vida balanceada (ex.: 2-3x chefe lendário, derrotável em 1,5-2 min). Dropa fragmento divino.
+Resultados
+Defesa Bem-Sucedida: Resistir 15 minutos ou eliminar todas as hordas reseta o desespero para 0. Se o deus for morto, dropa fragmento divino.
+Falha: Se as hordas não forem contidas, a base pode ser completamente destruída (100% das estruturas e bancadas). Desespero volta a 0. 
+
+
+Análise da Escala de 0-1000
+Estimativa de Acumulação
+Tempo Jogado: 10 horas = +500 (50/h).
+Construção: 200 itens (base grande) = +200.
+Fabricação: 100 itens variados (ex.: 30 Carpintaria [+30], 30 Armas [+90], 40 Fusão [+200]) = +320.
+Combate: 50 mortes variadas (ex.: 20 humanos [+20], 20 místicos [+40], 5 mini-chefes [+15], 5 chefes [+20]) = +95.
+Total Bruto: 500 + 200 + 320 + 95 = 1115 (sem mitigação).
+Com Rituais: 3 rituais Tier 4 (-300) reduz para 815.
+Benefícios da Escala 1000
+Flexibilidade: Permite bases grandes (ex.: 300 itens = 300), crafting intenso (ex.: 200 itens = 200-500) e combates frequentes (ex.: 100 mortes = 100-500) sem atingir o limite rápido.
+Tempo Jogado: +50/h dá peso significativo (20 horas = 1000), mas é controlável com rituais.
+Mitigação: Rituais culturais (até -100 por uso) equilibram o ritmo, exigindo estratégia.
+Considerações
+Frequência do Evento: Com 1000, o jogador médio atinge o limite em 10-15 horas (sem rituais), o que parece razoável para um jogo hardcore. Rituais podem estender isso.
+Peso do Crafting: Bancadas de tier alto (ex.: Fusão, Alquimia = +5) aceleram o desespero, incentivando o uso de bancadas culturais para mitigação.
+
+Observações
+Escala 1000: Dá espaço para progressão prolongada e evita punições excessivas em sessões longas.
+Tempo Jogado: +50/h torna o tempo um fator dominante, mas controlável com rituais.
+Fabricação por Tiers: Alinha o crafting ao combate, com pesos crescentes que refletem complexidade e poder.

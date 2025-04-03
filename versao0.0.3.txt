@@ -1,0 +1,94 @@
+Versao 3 - Plano de Desenvolvimento - Jogo de Sobrevivência Hardcore
+Visão Geral
+Este jogo de sobrevivência de mundo aberto se passa em um universo vasto e implacável, onde jogadores devem explorar, coletar recursos, construir fortalezas, enfrentar ameaças naturais e inimigos hostis, além de dominar o poder de divindades ancestrais. A progressão é baseada em civilizações históricas, permitindo aos jogadores especializar-se em uma delas, desbloqueando bancadas culturais e itens exclusivos.
+Mecânicas Principais
+1. Sobrevivência e Progressão
+Fome e Sede: Os jogadores precisarão gerenciar suas necessidades básicas coletando e preparando alimentos, além de encontrar fontes de água potável.
+Clima Dinâmico: Condições climáticas influenciam diretamente na jogabilidade, exigindo vestimentas adequadas e estratégias para sobreviver ao frio extremo, calor escaldante ou tempestades violentas.
+Construção e Fortificação: Bases podem ser erguidas utilizando materiais coletados, com diferentes níveis de resistência contra invasões e ataques divinos.
+Exploração e Descoberta: O mundo do jogo possui ruínas antigas, biomas variados e segredos ocultos que recompensam os jogadores mais ousados.
+2.0. Bancadas Principais e Suas Especialidades
+Bancada de Carpintaria
+Especialidade: Produção de peças estruturais como fundações, paredes, telhados, portas e escadas para construções.
+Função: Criação e expansão de bases.
+Bancada de Mobília
+Especialidade: Fabricação de móveis e itens decorativos como camas, mesas, cadeiras, baús e tronos.
+Função: Melhoria de conforto, armazenamento e estética nas bases.
+Bancada de Ferramentas
+Especialidade: Criação de ferramentas para coleta (machados, picaretas, facas), itens utilitários (tochas, redes) e bancadas de tier superior.
+Função: Coleta de recursos e progressão do sistema de crafting.
+Bancada de Curtume
+Especialidade: Processamento de peles, cascas e teias em couro e derivados (cordas, selas, tecidos reforçados).
+Função: Fornecimento de materiais de couro para armaduras, armas e outros itens.
+Bancada de Fundição
+Especialidade: Processamento de minérios brutos (ferro, carvão, Ferro Valariano, estanho, ouro, prata) em lingotes ou materiais refinados (aço, bronze).
+Função: Refino de metais para armas, armaduras e construções.
+Bancada de Armas
+Especialidade: Fabricação de todas as armas (leves, pesadas, à distância).
+Função: Produção centralizada de armas para combate.
+Bancada de Armaduras
+Especialidade: Produção de todas as armaduras (leves, médias, pesadas).
+Função: Criação unificada de proteção para o jogador.
+Bancada de Cozinha (substituindo Fogueira de Sobrevivência)
+Especialidade: Preparação de comida e itens básicos de sobrevivência (ex.: refeições, tochas, redes).
+Função: Suporte para alimentação e necessidades básicas.
+Bancada de Alquimia
+Especialidade: Criação de poções, venenos, explosivos e elixires com efeitos variados.
+Função: Consumíveis estratégicos para combate e sobrevivência.
+2.1. Bancadas Culturais e Crafting
+Cada civilização possui bancadas culturais específicas divididas em cinco níveis (tiers), permitindo o crafting de itens exclusivos de sua cultura. As bancadas são essenciais para a progressão, garantindo acesso a armas, armaduras, ferramentas e artefatos místicos.
+Dinastia de Xun'Kai (China Antiga)
+Bancada do Aprendiz Celestial (Itens básicos)
+Bancada do Discípulo do Dragão (Itens intermediários)
+Bancada do Mestre da Lança (Itens avançados)
+Bancada do Guardião Celeste (Itens raros)
+Bancada do Imperador Dragão (Itens lendários)
+Clã Yamatori (Japão Feudal)
+Bancada do Estudante Shinobi (Itens básicos)
+Bancada do Samurai Novato (Itens intermediários)
+Bancada do Guerreiro Ronin (Itens avançados)
+Bancada do Lorde Feudal (Itens raros)
+Bancada do Shogun do Trovão (Itens lendários)
+Legião de Valtoria (Roma)
+Bancada do Legionário Iniciante (Itens básicos)
+Bancada do Gladiador de Ferro (Itens intermediários)
+Bancada do Centurião de Elite (Itens avançados)
+Bancada do Comandante Imperial (Itens raros)
+Bancada do Deus da Guerra (Itens lendários)
+Ordem de Aegion (Grécia Antiga)
+Bancada do Discípulo de Zeus (Itens básicos)
+Bancada do Guerreiro Olímpico (Itens intermediários)
+Bancada do Herói Mitológico (Itens avançados)
+Bancada do Campeão dos Deuses (Itens raros)
+Bancada do Rei do Olimpo (Itens lendários)
+Império de Zandria (Egito Antigo)
+Bancada do Servo de Anúbis (Itens básicos)
+Bancada do Sacerdote Sagrado (Itens intermediários)
+Bancada do Guardião do Submundo (Itens avançados)
+Bancada do Faraó Imortal (Itens raros)
+Bancada do Senhor das Pirâmides (Itens lendários)
+Reinos de Skjoldrheim (Vikings)
+Bancada do Guerreiro de Madeira (Itens básicos)
+Bancada do Berserker Selvagem (Itens intermediários)
+Bancada do Guardião de Asgard (Itens avançados)
+Bancada do Filho de Odin (Itens raros)
+Bancada do Deus do Trovão (Itens lendários)
+Federação de Ashan (Pérsia/Mesopotâmia)
+Bancada do Seguidor das Sombras (Itens básicos)
+Bancada do Cultista da Noite (Itens intermediários)
+Bancada do Senhor do Caos (Itens avançados)
+Bancada do Profeta Sombrio (Itens raros)
+Bancada do Governante do Abismo (Itens lendários)
+3. Invocação de Deuses e Conflitos Divinos
+Os jogadores podem invocar deuses poderosos para intervir no mundo e devastar seus inimigos. Cada divindade possui habilidades únicas que podem ser utilizadas para destruir bases inimigas ou garantir proteção.
+Tianlong (China) - Invoca uma tempestade de chamas celestiais.
+Raijin (Japão) - Canaliza trovões devastadores sobre os oponentes.
+Mars (Roma) - Concede força sobre-humana e lança uma investida brutal contra inimigos.
+Zeus (Grécia) - Ativa um dilúvio de raios, atingindo grandes áreas.
+Anúbis (Egito) - Libera um exército de mortos-vivos para atacar adversários.
+Thor (Vikings) - Lança Mjölnir e causa destruição em massa.
+Ahriman (Pérsia) - Espalha trevas e corrupção, enfraquecendo inimigos.
+A invocação dessas entidades requer sacrifícios e rituais específicos, além do uso de altares sagrados construídos pelos jogadores.
+Considerações Finais
+Este jogo busca oferecer uma experiência intensa e imersiva, misturando mecânicas de sobrevivência, combate, crafting e mitologia. A progressão baseada em civilizações e a possibilidade de invocar deuses criam uma jogabilidade única e desafiadora.
+O desenvolvimento do jogo continuará evoluindo, incorporando novas ideias, ajustes de equilíbrio e otimizações para garantir uma experiência de alto nível para os jogadores.

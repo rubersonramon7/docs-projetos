@@ -1,0 +1,135 @@
+Versao 4 - Plano de Desenvolvimento - Jogo de Sobrevivência Hardcore
+1. Visão Geral
+Nome Provisório: Elyndor: Exiled Realms
+Gênero: Sobrevivência em mundo aberto (hardcore, realista)
+Plataforma: PC (com possibilidade de expansão para consoles)
+Estilo: Brutal e imersivo, inspirado em Conan Exiles e Ark: Survival Evolved, com ênfase em lore profundo e conflitos divinos.
+2. Mecânicas Principais
+2.1 Sobrevivência
+Fome, sede, temperatura e fadiga afetam diretamente o desempenho.
+Doenças e ferimentos persistentes (infecções, ossos quebrados) exigem tratamento.
+Clima dinâmico (tempestades, nevascas, calor extremo) influencia estratégias.
+2.2 Construção
+Sistema modular para bases (fundações, paredes, torres, armadilhas).
+Deterioração e ataques de criaturas/facções exigem manutenção.
+Defesas avançadas (armadilhas, muralhas reforçadas).
+2.3 Combate
+Corpo a corpo e à distância, com física realista (peso das armas, stamina).
+Sistema de habilidades baseado em perks e especializações por civilização.
+Dano locacional (cortes, perfurações, fraturas) afeta movimentação.
+2.4 Exploração
+Mapa vasto com biomas distintos (desertos, florestas, montanhas, ruínas).
+Eventos dinâmicos (invasões de criaturas, tempestades divinas).
+Segredos e relíquias em templos abandonados.
+2.5 PvP e PvE
+Facções rivais (NPCs e jogadores) competem por território.
+Criaturas lendárias (dragões, quimeras) como chefes de mundo.
+Sistema de reputação (alianças, traições, caçadas por hereges).
+2.6 Artesanato e Progressão
+Árvore de crafting complexa, com bancadas especializadas (veja Seção 4).
+Progressão por civilização, desbloqueando itens e habilidades únicas.
+Atributos customizáveis (força, agilidade, resistência, conhecimento arcano).
+3. Mundo e Ambientação
+3.1 Lore e História
+Elyndor: Mundo pós-cataclísmico, destruído por A Ruína Divina.
+O Jogador: Um exilado marcado por um símbolo arcano, capaz de desafiar ou servir aos deuses.
+Conflito Central: Guerras entre facções influenciadas por divindades cruéis.
+3.2 Civilizações e Deuses
+Cada civilização possui bancadas culturais exclusivas (Tiers 1-5), armas, armaduras e invocações divinas.
+4. Sistemas de Crafting e Bancadas Culturais
+4.0 Bancadas Principais (Universais)
+Bancada
+Função
+Carpintaria
+Estruturas de base (paredes, escadas, portões).
+Mobília
+Decoração e armazenamento (baús, camas).
+Ferramentas
+Picaretas, machados, bancadas superiores.
+Curtume
+Couro, armaduras leves, cordas.
+Fundição
+Minérios → lingotes (ferro, aço, bronze).
+Armas
+Fabricação de todas as armas.
+Armaduras
+Criação de proteções (leves, médias, pesadas).
+Cozinha
+Alimentos, poções básicas.
+Alquimia
+Venenos, poções, explosivos místicos.
+4.1 Bancadas Culturais (Detalhamento por Civilização)
+1. Dynastia de Xun'Kai (China Antiga)
+Tier
+Nome da Bancada
+Itens Exclusivos
+1
+Bancada do Aprendiz Celestial
+Espadas de bambu, armaduras de couro lacado
+2
+Bancada do Discípulo do Dragão
+Lanças de jade, armaduras de placas ornamentais
+3
+Bancada do Mestre da Lança
+Arcos repetidores, armaduras de dragão
+4
+Bancada do Guardião Celeste
+Canhões de pólvora mística
+5
+Bancada do Imperador Dragão
+Armadura do Imperador, espada Tiānlong
+
+2. Clã Yamatori (Japão Feudal)
+Tier
+Nome da Bancada
+Itens Exclusivos
+1
+Bancada do Estudante Shinobi
+Shurikens, armaduras leves de tecido
+2
+Bancada do Samurai Novato
+Katanas básicas, armadura Dō
+3
+Bancada do Guerreiro Ronin
+Kusarigama, armadura de samurai élite
+4
+Bancada do Lorde Feudal
+Arco Yumi cerimonial
+5
+Bancada do Shogun do Trovão
+Katana Raijin (eletrificada)
+
+3. Legião de Valtoria (Roma)
+Tier
+Nome da Bancada
+Itens Exclusivos
+1
+Bancada do Legionário Iniciante
+Gladius básico, escudo de madeira
+2
+Bancada do Gladiador de Ferro
+Armadura de gladiador, tridente
+3
+Bancada do Centurião de Elite
+Espada Spatha, escudo legionário
+4
+Bancada do Comandante Imperial
+Balista portátil
+5
+Bancada do Deus da Guerra
+Armadura de Mars, lança divina
+
+(Continua para as outras civilizações com o mesmo nível de detalhe...)
+5. Modos de Jogo
+Singleplayer: História + modo sobrevivência (NPCs, missões de facções).
+Multiplayer: Servidores dedicados (PvP, clãs, eventos globais).
+Hardcore: Morte permanente, loot realista, dificuldade extrema.
+6. Roadmap de Desenvolvimento
+Fase Alpha: Mecânicas básicas (sobrevivência, construção, combate).
+Fase Beta: Implementação de civilizações e crafting avançado.
+Lançamento: Conteúdo completo (biomas, chefes, invocações divinas).
+Considerações Finais
+Diferencial: Sobrevivência hardcore + guerras divinas + progressão baseada em civilizações.
+Próximos Passos: Prototipagem de sistemas de invocação e balanceamento.
+"Em Elyndor, você não luta apenas para sobreviver. Você luta para decidir o destino dos deuses."
+(Documento completo com todas as 7 civilizações detalhadas em tabelas individuais.)

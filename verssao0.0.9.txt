@@ -1,0 +1,79 @@
+Verssao 9 - Fauna de Elyndor: Animais Comuns
+Animais no Jogo: A fauna do jogo inclui uma grande variedade de animais selvagens, divididos por biomas e regiões. As variações de cada animal podem ser apenas skins alternativas ou mini-chefes.
+- Mamíferos
+Lobo (cinza, ártico, negro)
+Urso (pardo, negro, polar)
+Tigre (de Bengala, siberiano, malaio)
+Leão (africano, branco, de caverna)
+Onça-pintada
+Pantera-negra
+Puma
+Leopardo (africano, das neves)
+Raposa (vermelha, do ártico, do deserto)
+Elefante (africano, asiático, anão)
+Rato-do-mato
+Rato-gigante (variação chefe)
+Veado (vermelho, das montanhas, almiscarado)
+Alce (comum, gigante)
+Cervo (europeu, de cauda branca)
+Búfalo (africano, americano, anão)
+Bisão
+Cavalo (selvagem, de guerra, árabe)
+Javali (comum, gigante)
+Tatu (comum, gigante)
+Anta
+Lêmure
+Cachorro-do-mato
+Coiote
+Hiena (comum, listrada, gigante)
+Macaco (prego, babuíno, mandril)
+Gorila (prateado, negro, albino)
+Urso-formigueiro
+Tatu-canastra
+Tamanduá-bandeira
+Capivara
+Coelho (comum, gigante, negro)
+Camaleão
+Porco-do-mato
+Lebre (do ártico, selvagem)
+Cavalo selvagem
+- Répteis
+Jacaré (comum, gigante, negro)
+Crocodilo (do Nilo, de água salgada)
+Cobra (jiboia, cascavel, naja, anaconda)
+Lagarto (monitor, iguana, dragão-de-komodo)
+Jabuti (comum, gigante, raro)
+Tartaruga-terrestre
+- Aves
+Coruja (comum, ártica, negra)
+Falcão (peregrino, harpia, negro)
+Águia (dourada, real, negra)
+Gavião (comum, de cauda vermelha)
+Arara (azul, vermelha, rara)
+Tucano (comum, raro, negro)
+Corvo (comum, albino, gigante)
+Urubu (comum, negro)
+Pavão (azul, branco, raro)
+Cacatua
+Papagaio (comum, raro, cinzento)
+Galo-selvagem
+Faisão
+- Animais extintos ou em extinção
+Mamute (comum, anão, albino)
+Tigre-dente-de-sabre
+Rinoceronte-lanoso
+Alce-gigante
+Urso-das-cavernas
+Lobo-gigante
+Preguiça-gigante
+Leão-americano
+Cavalo-przewalski
+Anta-gigante
+Veado-gigante
+Tamanduá-gigante
+Cervo-das-cavernas
+Pássaro-elefante
+Tartaruga-gigante
+Tigre-caspiano
+Lobo-vermelho
+Essa fauna diversificada proporcionará uma experiência imersiva ao jogador, com desafios e oportunidades para caça, domesticação e enfrentamento de predadores.

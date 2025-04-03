@@ -1,0 +1,120 @@
+Verssao 8 - Sistema de PvP e Raids - Elyndor
+
+1. COMBATE JOGADOR VS JOGADOR (PVP)
+================================
+Mecânicas Básicas
+---------------
+- Combate livre em mundo aberto
+- Sistema de honra baseado em kills
+- Loot completo ao derrotar jogadores
+- Acúmulo de Desespero por kills (+1 por jogador)
+
+Zonas de Conflito
+---------------
+- Zonas Neutras: PvP desativado (áreas iniciais)
+- Zonas Contestadas: PvP livre
+- Zonas Divinas: PvP com bônus de loot
+
+2. COMBATE PVE
+============
+Tipos de Inimigos
+---------------
+- Criaturas Comuns: +1 desespero
+- Criaturas Místicas: +2 desespero
+- Mini-Chefes: +3 desespero
+- Chefes: +4 desespero
+- Chefes Lendários: +5 desespero
+
+Recompensas
+----------
+- Materiais de craft
+- Itens únicos
+- Fragmentos de poder
+- Conhecimento ancestral (receitas)
+
+3. SISTEMA DE RAID
+================
+Itens de Raid
+------------
+Armas de Cerco:
+- Martelo Divino: Quebra estruturas fortificadas  (funciona como um ariete)
+- Catapulta de Almas: Lança projéteis explosivos
+
+Explosivos:
+- Bomba da Fúria Celestial: Dano ao longo do tempo e ignição de área
+- Bomba da Peste Antiga: Nuvem tóxica que causa dano ao longo do tempo
+- Bomba de Corrosão: Derrete estruturas e armaduras
+- Bomba de Éter: Dano em área grande
+
+Flechas Especiais:
+- Flecha da Pira Divina: Ignição no impacto (fogo)
+- Flecha do Caos: Libera nuvem tóxica (acida)
+- Flecha Demoníaca: Cria nuvem de veneno ao impacto (veneno)
+
+Sistema de Proteção
+-----------------
+Rituais e Barreiras por Civilização (Tier 4):
+
+Xun'Kai
+- Ritual: Comunhão das Ervas Sagradas
+- Barreira: Muralha de Espinhos Eternos
+- Custo: 500 ervas místicas, 200 essência divina, 100 cristais de poder
+
+Yamatori
+- Ritual: Invocação do Trovão Ancestral
+- Barreira: Véu das Tempestades
+- Custo: 500 cristais do trovão, 200 essência divina, 100 fragmentos de tempestade
+
+Valtoria
+- Ritual: Pacto de Sangue Primordial
+- Barreira: Prisão Carmesim
+- Custo: 500 sangue ancestral, 200 essência divina, 100 cristais de vida
+
+Aegion
+- Ritual: Cântico dos Heróis Esquecidos
+- Barreira: Escudo das Lendas
+- Custo: 500 pergaminhos antigos, 200 essência divina, 100 fragmentos de memória
+
+Zandria
+- Ritual: Despertar das Relíquias Antigas
+- Barreira: Égide dos Artefatos
+- Custo: 500 relíquias sagradas, 200 essência divina, 100 cristais de poder
+
+Skjoldrheim
+- Ritual: Chamado dos Guerreiros Caídos
+- Barreira: Muralha de Gelo Eterno
+- Custo: 500 gelo primordial, 200 essência divina, 100 almas guerreiras
+
+Ashan
+- Ritual: Convergência das Sombras
+- Barreira: Véu da Escuridão
+- Custo: 500 essência sombria, 200 essência divina, 100 cristais void
+
+Mecânicas do Ritual:
+- Requer: Bancada Cultural Tier 4
+- Tempo de Ativação: 15 minutos
+  (Permite contra-jogada dos raiders mas não é longo demais para frustrar defensores)
+- Duração da Barreira: 3 horas
+  (Tempo suficiente para defender durante raids longas e permitir recuperação após ataques)
+- Cooldown: 6 horas após término
+  (Evita spam de barreiras mas permite uso estratégico)
+
+Nota: Todos os rituais requerem essência divina como componente comum, representando a natureza sagrada do poder defensivo.
+
+Efeito: Cada barreira é indestrutível por 10 minutos após o ritual
+- Ritual Divino: Barreira indestrutível temporária
+
+Sistema de Recompensas
+--------------------
+Saque Total:
+- Todo conteúdo de baús e containers
+- Todas as bancadas de craft
+- Todos os recursos armazenados
+- Itens especiais e únicos
+
+6. INTEGRAÇÃO COM HISTÓRIA
+=======================
+- Raids representam conflitos entre facções
+- Itens de raid são relíquias antigas
+- Sistema reflete a luta por recursos
+- Mantém temática do mundo dividido

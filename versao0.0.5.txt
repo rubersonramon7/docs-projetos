@@ -1,0 +1,85 @@
+Versao 5 - Plano de Desenvolvimento - Jogo de Sobrevivência Hardcore
+1. Visão Geral
+Nome Provisório: [A definir – Sugestões: Elyndor: Exiled Realms, Ruins of Divinity]
+Gênero: Sobrevivência em mundo aberto
+Plataforma: PC (expansão futura para consoles)
+Estilo: Realista e brutal, inspirado em Conan Exiles, com lore profundo e civilizações únicas
+2. Mecânicas Principais
+Sobrevivência: Fome, sede, temperatura e fadiga afetam o jogador; inclui doenças e ferimentos persistentes.
+Construção: Edificação modular de abrigos e fortalezas, com deterioração e necessidade de manutenção.
+Combate: Corpo a corpo e à distância, baseado em skills, equipamentos e stamina; armas com peso realista.
+Exploração: Mapas vastos com biomas (desertos, florestas, montanhas, ruínas) e eventos dinâmicos (tempestades, avalanches).
+PvP e PvE: Facções rivais, criaturas hostis e tréguas táticas contra ameaças maiores.
+Artesanato: Fabricação de armas, armaduras e utensílios; árvores de crafting culturais exclusivas.
+Progressão: Atributos, perks e habilidades; alguns perks vinculados à lealdade aos deuses.
+3. Mundo e Ambientação
+Mapa Extenso: Biomas variados com desafios e recompensas únicas (ex.: desertos com ruínas, montanhas com minérios raros).
+Ciclo de Clima e Dia/Noite: Impacta jogabilidade (ex.: noites frias aumentam fadiga, chuvas afetam arcos).
+História e Lore:
+ O jogo se passa em Elyndor, um mundo brutal de exilados marcado por guerras entre civilizações devotas a deuses cruéis. Após A Ruína Divina, antigas potências colapsaram, e os exilados lutam por sobrevivência e domínio. O jogador, um condenado marcado por um símbolo arcano, pode se aliar a uma civilização, desafiar os deuses ou criar um império no caos.
+Civilizações e Deuses:
+Dynastia de Xun'Kai (China Antiga): Mestres da alquimia e combate espiritual. Deus: Tianlong, O Dragão Celestial (chamas divinas).
+Clã Yamatori (Japão Feudal): Guerreiros das sombras e disciplina. Deus: Raijin, O Senhor das Tempestades (trovões devastadores).
+Legião de Valtoria (Roma): Militares implacáveis e conquistadores. Deus: Mars, O Deus da Guerra (golpes titânicos).
+Ordem de Aegion (Grécia Antiga): Guiados por filosofia e deuses. Deus: Zeus, O Deus dos Deuses (raios colossais).
+Império de Zandria (Egito Antigo): Dominadores de rituais místicos. Deus: Anúbis, O Guardião da Morte (múmias colossais).
+Reinos de Skjoldrheim (Vikings): Guerreiros selvagens e devotos da guerra. Deus: Thor, O Deus do Trovão (Mjölnir).
+Federação de Ashan (Pérsia/Mesopotâmia): Mestres da estratégia e arquitetura. Deus: Ahriman, O Senhor das Trevas (escuridão e demônios).
+Deuses e Invocações: Invocações exigem sacrifícios e altares, com alto custo e cooldown. Hereges podem roubar poderes divinos com riscos.
+Criaturas e Ruínas: Dragões, quimeras e guardiões habitam Elyndor, protegendo templos com relíquias de eras onde deuses caminhavam entre mortais.
+4. Bancadas de Crafting
+Bancadas Principais:
+Carpintaria: Estruturas (fundações, paredes, telhados).
+Ferramentas: Machados, picaretas, tochas; desbloqueia tiers superiores.
+Fusão: Refino de minérios em lingotes (aço, bronze).
+Armas: Produção centralizada de armas (leves, pesadas, à distância).
+Armaduras: Criação de armaduras (leves, médias, pesadas).
+Curtume: Processamento de peles em couro (armaduras, cordas).
+Cozinha: Preparação de comida e itens básicos (refeições, redes).
+Alquimia: Poções, venenos e explosivos.
+Bancadas Culturais (4 Tiers por Civilização):
+Dynastia de Xun'Kai:
+Tier 1: Aprendiz Celestial (itens básicos)
+Tier 2: Discípulo do Dragão (intermediários)
+Tier 3: Mestre da Lança (avançados)
+Tier 4: Imperador Dragão (lendários)
+Clã Yamatori:
+Tier 1: Estudante Shinobi (básicos)
+Tier 2: Samurai Novato (intermediários)
+Tier 3: Guerreiro Ronin (avançados)
+Tier 4: Shogun do Trovão (lendários)
+Legião de Valtoria:
+Tier 1: Legionário Iniciante (básicos)
+Tier 2: Gladiador de Ferro (intermediários)
+Tier 3: Centurião de Elite (avançados)
+Tier 4: Deus da Guerra (lendários)
+Ordem de Aegion:
+Tier 1: Discípulo de Zeus (básicos)
+Tier 2: Guerreiro Olímpico (intermediários)
+Tier 3: Herói Mitológico (avançados)
+Tier 4: Rei do Olimpo (lendários)
+Império de Zandria:
+Tier 1: Servo de Anúbis (básicos)
+Tier 2: Sacerdote Sagrado (intermediários)
+Tier 3: Guardião do Submundo (avançados)
+Tier 4: Senhor das Pirâmides (lendários)
+Reinos de Skjoldrheim:
+Tier 1: Guerreiro de Madeira (básicos)
+Tier 2: Berserker Selvagem (intermediários)
+Tier 3: Filho de Odin (avançados)
+Tier 4: Deus do Trovão (lendários)
+Federação de Ashan:
+Tier 1: Seguidor das Sombras (básicos)
+Tier 2: Cultista da Noite (intermediários)
+Tier 3: Senhor do Caos (avançados)
+Tier 4: Governante do Abismo (lendários)
+5. IA e NPCs
+Tribos: Hostis (mini-chefes) ou neutras (subornáveis).
+Criaturas Lendárias: Chefes de mundo, alguns despertados por ações do jogador.
+Mercadores e Clãs: Interações dinâmicas (preços variam com reputação).
+6. Modos de Jogo
+Singleplayer: Modo história (ascensão do exilado) e sobrevivência pura.
+Multiplayer: Servidores dedicados, clãs e eventos globais (ex.: ataques divinos).
+Hardcore: Morte permanente, loot realista e legado para os mortos (marcos ou relíquias).
+7. Considerações Finais
+O jogo combina sobrevivência brutal, crafting cultural e mitologia épica, oferecendo uma experiência imersiva e desafiadora. Ajustes de equilíbrio, personalização visual (bandeiras, tatuagens) e eventos dinâmicos (invasões, eclipses) serão refinados no desenvolvimento.

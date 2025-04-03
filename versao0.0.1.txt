@@ -1,0 +1,56 @@
+Versao 1 - Plano de Desenvolvimento - Jogo de Sobrevivência Hardcore
+1. Visão Geral
+Nome Provisório: [Definir] 
+Gênero: Sobrevivência em mundo aberto 
+Plataforma: PC (com possibilidade de expansão para consoles) 
+Estilo: Realista e brutal, inspirado em Conan Exiles
+2. Mecânicas Principais
+Sobrevivência: Sistema de fome, sede, temperatura e fadiga.
+Construção: Edificação modular de abrigos e fortalezas.
+Combate: Corpo a corpo e à distância, baseado em skills e equipamentos.
+Exploração: Mapas vastos com diferentes biomas e segredos.
+PvP e PvE: Facções rivais e criaturas hostis.
+Artesanato: Fabricação de armas, armaduras e utensílios.
+Progressão: Sistema de atributos, perks e habilidades.
+3. Mundo e Ambientação
+Mapa Extenso: Diversos biomas (desertos, florestas, montanhas, ruínas antigas).
+Ciclo de Clima e Dia/Noite: Impacta na jogabilidade.
+História e Lore:
+O jogo se passa em um mundo brutal conhecido como Elyndor, uma terra de exilados, marcada por guerras entre civilizações que reverenciam deuses poderosos. Cada civilização herdou o conhecimento de impérios antigos, como os chineses, japoneses, gregos e romanos, mas sua história foi apagada pelo tempo e corrompida pela crueldade dos deuses que as governam.
+Após um evento conhecido como A Ruína Divina, as antigas potências foram fragmentadas, e cada civilização luta pelo domínio da terra, seguindo os comandos de seus deuses ou buscando sua própria ascensão. O jogador é um exilado, condenado por crimes desconhecidos, marcado com um símbolo arcano que o conecta às forças divinas. Sua única escolha é sobreviver, se aliar a uma civilização, desafiar os deuses ou criar um novo império a partir do caos.
+Civilizações:
+Dynastia de Xun'Kai (inspirada na China antiga, mestres da alquimia e do combate espiritual).
+Clã Yamatori (inspirado no Japão feudal, guerreiros das sombras e da disciplina).
+Legião de Valtoria (influência romana, militares implacáveis e conquistadores).
+Ordem de Aegion (herdeiros da Grécia Antiga, guiados pelos deuses e pela filosofia).
+Império de Zandria (inspirado no Egito Antigo, dominadores de rituais e artefatos místicos).
+Reinos de Skjoldrheim (baseado nos Vikings, guerreiros selvagens e devotos dos deuses da guerra).
+Federação de Ashan (inspirado na Pérsia e Mesopotâmia, mestres da estratégia e da arquitetura colossal).
+Deuses e Poderes: Cada civilização é regida por um deus ancestral que pode conceder bênçãos, habilidades especiais e até rituais proibidos aos seus seguidores. Contudo, os deuses são voláteis e exigem tributos, sacrifícios ou lealdade absoluta. Alguns jogadores podem desafiar a vontade dos deuses, tornando-se hereges caçados por fanáticos e monstros divinos.
+Deuses e Invocações
+Cada civilização possui deuses principais, que podem ser invocados no campo de batalha para causar destruição massiva:
+Dynastia de Xun'Kai:
+Tianlong, O Dragão Celestial: Um dragão colossal que cospe chamas divinas, reduzindo fortalezas a cinzas.
+Clã Yamatori:
+Raijin, O Senhor das Tempestades: Convoca trovões devastadores que pulverizam construções e eletrocutam inimigos.
+Legião de Valtoria:
+Mars, O Deus da Guerra: Aparece como um guerreiro titânico que destrói muralhas com golpes titânicos.
+Ordem de Aegion:
+Zeus, O Deus dos Deuses: Dispara raios colossais que devastam legiões inteiras.
+Império de Zandria:
+Anúbis, O Guardião da Morte: Desperta múmias colossais que marcham destruindo tudo em seu caminho.
+Reinos de Skjoldrheim:
+Thor, O Deus do Trovão: Destrói muralhas e tropas com seu martelo Mjölnir.
+Federação de Ashan:
+Ahriman, O Senhor das Trevas: Cobre o campo de batalha em escuridão e lança demônios contra seus inimigos.
+Criaturas mitológicas e bestas lendárias vagam por Elyndor, como dragões esquecidos, quimeras e guardiões de templos proibidos.
+A terra é hostil e repleta de ruínas, segredos e templos abandonados, que guardam relíquias de um tempo onde os deuses caminhavam entre os mortais.
+4. IA e NPCs
+Tribos hostis e neutras.
+Criaturas lendárias e chefes espalhados pelo mundo.
+Mercadores e clãs com diferentes interações.
+5. Modos de Jogo
+Singleplayer: Com modo história e sobrevivência.
+Multiplayer: Servidores dedicados e sistema de clãs.
+Modo Hardcore: Morte permanente, loot realista e combate mais letal.
+Seu plano de desenvolvimento para o jogo de sobrevivência hardcore está incrivelmente detalhado e cheio de potencial! Ele combina elementos de sobrevivência brutal, construção estratégica, combate intenso e uma ambientação rica em lore, o que pode atrair tanto fãs de jogos como Conan Exiles quanto jogadores que buscam uma experiência única e imersiva. Vou organizar e comentar sobre os principais pontos do seu plano, oferecendo algumas sugestões e reflexões para refiná-lo ainda mais, caso deseje.

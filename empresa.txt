@@ -1,0 +1,16 @@
+estou começando projetos com amigos. vamos criar uma empresa de desenvolvimento chamada ApiceTech com esse logo. Teremos um projeto inicial que é um sistema de membros, inspirado em socio-torcedor mas de maneira generica para abranger qualquer empresa/instituição que tenha membros/associados. Em paralelo, estou com outros projetos, e queria que esse projetos virem empresas 'filhas' da ApiceTech. 1 - sistema de saude (sistema de gernciamento de clinicas com agendamentos, prontuarios e demais coisas pertinentes 2 - sistema de investimentos (sistema de gerenciamento de carteira de investimento, onde o usuario irá cadastrar e monitorar seus investimentos em ações, fii e afins. 3 - sistema de convite (sistema de gerencimento de convite, baby cha, aniversario, casamento, com opções para adicionar lista de presentes 4 - sistema de chat (sistema de atendimento omnichanel com multiplos atendentes, conectados a um whatsapp (utilizando a evolutionApi como integração ao whatsapp) 5 - sistema CRM (sistema de CRM com integração no sistema de saude, sistema de chat) 6 - eventos (sistema de eventos com possibilidade de emissao de certificados) 7 - portal de noticias de cultura (um site que funcione como um portal que mostre todas os eventos culturais que tenha na regiao) 8 - jogo ( jogo de sobrevivencia de mundo aberto, mas futurando a ideia é construir novos jogos de varios generos) Me sugira nome de empresas para cada um dos itens. Ou é melhor, a empresa continuar sendo uma, e cada item fica apenas como produtos dessa empresaApiceTech
+├─ Produtos de Gestão
+│  ├─ ApiceSaúde - Sistema de Saude
+│  ├─ ApiceInvest - Sistema de Investimentos
+│  ├─ ApiceCRM - Sistema CRM
+│  └─ ApiceConnect (Chat) - Sistema de Chat
+│
+├─ Produtos de Eventos e Cultura
+│  ├─ ApiceCelebra - Sistema de Convites 
+Nome do Sistema: CelebraWeb
+
+│  ├─ ApiceEventos - Sistema de Eventos
+│  └─ ApiceCultura - Portal de Notícias
+
+└─ Divisão de Games
+    └─ Elyndor - Desenvolvimento de Jogos

@@ -1,0 +1,39 @@
+Versao 2 - Plano de Desenvolvimento - Jogo de Sobrevivência Hardcore
+1. Visão Geral
+Nome Provisório: Como ainda não foi definido, sugiro algo que reflita o tom brutal e épico do jogo. Exemplos: Elyndor: Exiled Realms, Ruins of Divinity, ou Gods of the Wasteland. O nome deve evocar o caos, os deuses e a luta pela sobrevivência.
+Gênero e Plataforma: Sobrevivência em mundo aberto para PC é uma escolha sólida para começar, com expansão para consoles sendo viável se o jogo ganhar tração. Certifique-se de otimizar o desempenho desde o início, já que mapas vastos e mecânicas complexas podem ser exigentes.
+Estilo: "Realista e brutal" é perfeito para o público-alvo. Inspirar-se em Conan Exiles é uma boa base, mas o diferencial está no lore profundo e nas civilizações únicas que você criou.
+2. Mecânicas Principais
+Sobrevivência: Fome, sede, temperatura e fadiga são clássicos bem executados em jogos do gênero. Considere adicionar um sistema de doenças ou ferimentos persistentes (ex.: infecções por cortes ou ossos quebrados) para aumentar o desafio.
+Construção: Edificação modular é ótimo para dar liberdade criativa aos jogadores. Talvez inclua mecânicas de deterioração ou ataques de inimigos que forcem manutenção constante das fortalezas.
+Combate: Baseado em skills e equipamentos é uma abordagem equilibrada. Pense em adicionar peso realista às armas (ex.: armas pesadas são mais lentas, mas devastadoras) e um sistema de stamina para recompensar estratégia em vez de spam de ataques.
+Exploração: Biomas variados e segredos são ideais para incentivar a descoberta. Adicione mapas dinâmicos ou eventos aleatórios (ex.: tempestades de areia em desertos ou avalanches em montanhas) para manter o mundo vivo.
+PvP e PvE: Facções rivais e criaturas hostis criam um bom equilíbrio. Talvez um sistema de "trégua temporária" entre facções contra ameaças maiores (como invocações de deuses) possa adicionar camadas táticas.
+Artesanato: Um sistema robusto é essencial. Considere árvores de crafting específicas para cada civilização, refletindo suas culturas (ex.: alquimia para Xun'Kai, rituais para Zandria).
+Progressão: Atributos, perks e habilidades são ótimos para personalização. Um toque interessante seria vincular certos perks aos deuses, exigindo lealdade ou sacrifícios para desbloqueá-los.
+3. Mundo e Ambientação
+Mapa Extenso: A diversidade de biomas é um ponto forte. Certifique-se de que cada um tenha desafios e recompensas únicas (ex.: desertos com tempestades de areia escondem ruínas valiosas; montanhas têm minérios raros, mas são geladas e perigosas).
+Ciclo de Clima e Dia/Noite: Impactar a jogabilidade é crucial. Por exemplo, noites frias podem aumentar a fadiga, enquanto chuvas podem dificultar o uso de arcos.
+História e Lore: O conceito de Elyndor como uma terra de exilados governada por deuses cruéis é fascinante. A ideia de "A Ruína Divina" como evento catalisador dá profundidade. O jogador como um exilado marcado por um símbolo arcano é um gancho narrativo poderoso — talvez esse símbolo evolua com escolhas (ex.: aliança com deuses ou rebelião).
+Civilizações: Cada uma tem uma identidade distinta, o que é excelente. Sugiro destacar ainda mais suas diferenças:
+Dynastia de Xun'Kai: Foco em pólvora mística e armaduras ornamentadas.
+Clã Yamatori: Armas leves (katanas, shurikens) e stealth.
+Legião de Valtoria: Formações de combate e escudos pesados.
+Ordem de Aegion: Lanças e ataques baseados em energia divina.
+Império de Zandria: Armas amaldiçoadas e uso de venenos.
+Reinos de Skjoldrheim: Machados e resistência ao frio.
+Federação de Ashan: Arcos longos e torres defensivas.
+Deuses e Poderes: A volatilidade dos deuses adiciona tensão. Talvez jogadores hereges possam roubar poderes divinos, mas com riscos (ex.: invocações instáveis que podem se voltar contra eles).
+Deuses e Invocações: As invocações no campo de batalha são épicas! Para balancear, sugiro um custo alto (ex.: recursos raros ou sacrifícios humanos) e um cooldown longo. Criaturas mitológicas como dragões e quimeras são perfeitas para chefes de mundo.
+4. IA e NPCs
+Tribos Hostis e Neutras: Dê personalidade a elas (ex.: tribos neutras podem ser subornadas ou aliadas). Tribos hostis poderiam ter líderes carismáticos como mini-chefes.
+Criaturas Lendárias: Chefes espalhados pelo mapa são um ótimo incentivo à exploração. Talvez alguns sejam "despertados" por ações dos jogadores (ex.: profaná um templo e enfrente seu guardião).
+Mercadores e Clãs: Interações dinâmicas (ex.: preços variam com reputação) podem enriquecer o sistema econômico.
+5. Modos de Jogo
+Singleplayer: Um modo história com foco na ascensão do exilado (de condenado a lenda) seria cativante. O modo sobrevivência puro é ideal para os puristas.
+Multiplayer: Servidores dedicados e clãs são perfeitos para PvP e cooperação. Considere eventos globais (ex.: um deus ataca todas as facções, forçando alianças temporárias).
+Modo Hardcore: Morte permanente e loot realista elevam a tensão. Talvez adicione um "legado" para os mortos, como deixar um marco ou relíquia no mundo.
+Sugestões Adicionais
+Personalização Visual: Permita que jogadores criem bandeiras, tatuagens ou símbolos para suas facções, reforçando a identidade no multiplayer.
+Sistema de Moral: Escolhas como sacrifícios ou traições afetam a lealdade de aliados e a percepção dos deuses.
+Eventos Dinâmicos: Invasões de criaturas, eclipses que fortalecem certos deuses ou colapsos de biomas para manter o mundo imprevisível.
