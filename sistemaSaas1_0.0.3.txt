@@ -1,0 +1,73 @@
+Projeto Sócio-Torcedor (SaaS)
+  Identidade do Sistema
+    Nome e identidade visual personalizados para cada clube/empresa
+    Domínio próprio opcional (.com.br preferencialmente)
+
+  Estrutura SaaS
+    Plataforma centralizada com gestão individualizada por clube/empresa
+    Cada clube/empresa tem acesso apenas aos seus dados e membros
+    Personalização de identidade visual para cada cliente
+
+  Funcionalidades Básicas
+    Cadastro e Login
+      Cadastro de sócios com validação de e-mail
+      Login seguro (OAuth, autenticação JWT)
+      Recuperação de senha
+
+    Gestão de Planos
+      Exibição e escolha de planos
+      Configuração de preços e benefícios
+      Controle de vigência dos planos
+
+    Pagamentos e Financeiro
+      Integração com gateways de pagamento (Stripe, PagSeguro, Mercado Pago)
+      Geração de recibos e histórico de pagamentos
+      Cancelamento e renovação automática
+
+    Área do Sócio
+      Visualização de benefícios e histórico de pagamentos
+      Carteira digital (eCard) para identificação
+      Suporte e comunicação com o clube
+
+    Painel Administrativo
+      Cadastro e gerenciamento de sócios
+      Gestão de planos e benefícios
+      Relatórios financeiros e estatísticas
+
+    Comunicação e Engajamento
+      Envio de e-mails e notificações push
+      Divulgação de eventos e promoções
+      Implementações Futuras
+      Gamificação e sistema de pontos
+      Marketplace para venda de produtos e serviços
+      Integração com redes sociais
+      Eventos ao vivo e transmissão de jogos
+      Check-in via QR code para eventos e estádios
+      Programa de indicação e recompensas
+      Sistema de micro-nichos para segmentação de torcedores
+      NFTs e colecionáveis digitais
+
+  Tecnologias Utilizadas
+    Frontend: Next.js com componentes Shadcn
+    Backend: CakePHP
+    Banco de Dados: MySQL ou PostgreSQL
+    Serviços de Pagamento: Stripe, PayPal, PagSeguro, Mercado Pago
+    Notificações: Firebase Cloud Messaging ou OneSignal
+    Hospedagem: AWS, Google Cloud ou Azure
+    Desenvolvimento e Lançamento
+
+  Testes
+    Testes manuais e automatizados
+    Verificação de vulnerabilidades
+    Testes de usabilidade
+
+  Lançamento
+    Configuração de servidores e domínios
+    Certificado SSL para segurança
+    Campanha de divulgação
+    Monitoramento e Manutenção
+    Correção de bugs e atualizações
+    Coleta de feedback para melhorias
+
+Este documento prioriza as funcionalidades essenciais para lançamento e estrutura SaaS, deixando melhorias para fases futuras. Podemos detalhar mais alguma área se necessário! 🚀
+

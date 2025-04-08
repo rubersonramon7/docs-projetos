@@ -1,0 +1,45 @@
+MVP - Sistema de Multiatendimento (SaaS) com EvolutionAPI
+1. Objetivo do MVP
+Criar um sistema SaaS que permita que empresas e clubes utilizem múltiplos números de WhatsApp para atendimento ao cliente, integrado à EvolutionAPI. O foco inicial é oferecer um serviço funcional e escalável com o mínimo de funcionalidades necessárias para operação.
+
+2. Funcionalidades Básicas
+2.1. Gestão de Empresas (Multi-Tenant)
+Cadastro e login de empresas na plataforma
+Cada empresa tem seu próprio ambiente de atendimento
+Configuração de identidade visual personalizada
+
+2.2. Integração com EvolutionAPI
+Conexão e gerenciamento de múltiplos números de WhatsApp
+Envio e recebimento de mensagens em tempo real
+Monitoramento do status da conexão
+Configuração de webhooks para automação
+
+2.3. Atendimento ao Cliente
+Interface de chat para atendentes responderem mensagens
+Histórico de conversas separado por empresa e por cliente
+Distribuição manual de atendimentos entre atendentes
+Notificações para novas mensagens
+
+2.4. Painel Administrativo
+Cadastro e gerenciamento de atendentes
+Relatórios básicos (quantidade de atendimentos, tempo médio de resposta, etc.)
+Configuração de regras de atendimento
+
+2.5. Pagamentos e Cobrança
+Modelo de cobrança por uso (ex: número de conexões ativas)
+Integração com gateways de pagamento (Stripe, PagSeguro, Mercado Pago)
+
+3. Tecnologias Utilizadas
+Backend: CakePHP 4
+Frontend: CakePHP Views + ShadCN (para futuramente integrar com React/Next.js)
+Banco de Dados: MySQL
+Mensageria: Websockets para chat em tempo real
+Autenticação: JWT + OAuth para login seguro
+
+4. Próximos Passos
+Desenvolver as APIs principais
+Criar o painel de administração
+Testar a integração com EvolutionAPI
+Lançar uma versão beta para testes
+
+Este MVP permitirá validar a ideia e começar a captar clientes antes de expandir com funcionalidades mais avançadas. Podemos adicionar algo mais essencial antes de iniciarmos? 🚀

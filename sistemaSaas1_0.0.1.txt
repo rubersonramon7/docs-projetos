@@ -1,0 +1,88 @@
+# Plataforma de Membros & Sócio-Torcedor - Plano Estratégico
+
+## 📌 Visão Geral
+Solução completa para:
+- Criadores digitais (cursos/comunidades)
+- Clubes esportivos (programas de sócio-torcedor)
+- Benefícios:
+  - Áreas exclusivas para cada perfil
+  - Sistema unificado de benefícios
+  - Engajamento multiplataforma
+
+## 🔍 Análise de Mercado
+✅ **Oportunidades**:
+- Mercado de infoprodutos cresce 30% ao ano
+- 85% dos clubes buscam plataformas digitais
+- 72% dos torcedores querem mais interação digital
+
+⚠ **Desafios**:
+- Concorrência de Kajabi (40%) e plataformas esportivas (Socio)
+- Necessidade de customização por segmento
+
+## 🏆 Diferenciais Competitivos
+
+### 1. Experiência Personalizada
+- Editor visual único para:
+  - Criadores (cursos/comunidades)
+  - Clubes (benefícios/exclusivos)
+- White-label com identidade visual customizada
+
+### 2. Engajamento Híbrido
+- Para criadores:
+  - Gamificação de conteúdos
+  - Comunidades segmentadas
+- Para clubes:
+  - Programa de pontos
+  - Experiências VIP
+  - NFTs colecionáveis
+
+### 3. Monetização Flexível
+- Assinaturas recorrentes
+- Venda de benefícios avulsos
+- Marketplace de produtos exclusivos
+
+## 💰 Modelo de Negócio Duplo
+
+### Para Criadores:
+| Plano        | Preço/mês | Recursos                   |
+|--------------|-----------|----------------------------|
+| Starter      | $29       | 100 membros, 3 cursos      |
+| Professional | $99       | 1,000 membros, ilimitado   |
+
+### Para Clubes:
+| Plano        | Preço/mês | Recursos                   |
+|--------------|-----------|----------------------------|
+| Bronze       | $199      | Até 5.000 sócios           |
+| Prata        | $499      | Até 20.000 sócios          |
+| Ouro         | $999      | Sócios ilimitados          |
+
++ Taxa de 3% sobre vendas extras
+
+## 🚀 Roadmap Adaptado
+
+### Trimestre 1 (MVP)
+- [ ] Sistema de assinaturas dual
+- [ ] Editor de benefícios para clubes
+- [ ] Área do sócio-torcedor
+
+### Trimestre 2-3
+- [ ] Integração com ingressos digitais
+- [ ] Programa de pontos e recompensas
+- [ ] NFTs colecionáveis
+
+### Ano 1
+- [ ] App com geolocalização (eventos)
+- [ ] Integração com streaming
+- [ ] Marketplace de produtos clubísticos
+
+## 📊 Projeção Financeira
+| Ano | Custos   | Receita  | Clientes |
+|-----|----------|----------|----------|
+| 1   | $150k    | $500k    | 200      |
+| 2   | $250k    | $1.8M    | 600      |
+| 3   | $400k    | $4.2M    | 1,500    |
+
+## ⚡ Próximos Passos
+1. Validar com 5 clubes pilotos
+2. Adaptar protótipo para modelo dual
+3. Desenvolver módulo de ingressos

@@ -1,0 +1,32 @@
+Para modelar um sistema de multiatendimento integrado à EvolutionAPI como uma plataforma SaaS, podemos estruturar da seguinte forma:
+
+1. Estrutura Multiempresa
+Cada empresa/clube tem sua própria instância de atendimento, isolada das demais.
+Permitir que cada cliente conecte múltiplos números de WhatsApp via EvolutionAPI.
+Controle de permissões para operadores/admins por empresa.
+
+2. Integração com EvolutionAPI
+Configuração de webhooks para receber mensagens em tempo real.
+Envio de mensagens automatizadas ou personalizadas por atendentes.
+Status de conexão dos números e logs de mensagens.
+
+3. Gestão de Atendimento
+Fila de atendimento com distribuição automática ou manual de atendentes.
+Histórico de conversas separado por empresa.
+Respostas rápidas e automação para agilizar interações.
+
+4. Painel Administrativo
+Configuração de números de WhatsApp conectados.
+Relatórios de desempenho por atendente e por número.
+Controle financeiro (cobrança por uso, pacotes de atendimento, etc.).
+
+5. Modelagem no CakePHP
+Tabelas principais:
+empresas (dados da empresa/clube)
+usuarios (atendentes/admins)
+whatsapp_conexoes (números conectados)
+conversas (histórico de atendimentos)
+mensagens (detalhes de cada mensagem)
+configuracoes (ajustes específicos por empresa)
+
+Isso garantiria uma plataforma SaaS escalável e modular. Quer que eu atualize o documento incluindo esse módulo? 🚀
